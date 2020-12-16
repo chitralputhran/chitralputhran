@@ -10,6 +10,7 @@
 - [Professional Scrum Master I (PSM I) Certification from Scrum.org (December 2019)](https://www.scrum.org/certificates/488907)
 - [CKAD: Certified Kubernetes Application Developer (June 2020)](https://www.youracclaim.com/badges/16cd6fc8-ed46-49eb-817a-06da4461beb5/public_url)
 - [HashiCorp Certified: Terraform Associate (July 2020)](https://www.youracclaim.com/badges/3f1ba4a9-b732-4536-bf32-b9f392d7fa4a/public_url)
+- [HashiCorp Certified: Vault Associate (December 2020)](https://www.youracclaim.com/badges/575eb016-a75a-4541-b2dd-e90be73d5a35/public_url)
 
 ## 📚 Completed Coursera courses:
 - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/Z82NGSZB5EC4)
