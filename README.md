@@ -6,8 +6,8 @@
 
 ## 🏆 Certifications: 
 - [AWS Certified Machine Learning - Specialty (May 2023)](https://www.credly.com/badges/c6b4b026-b62e-432a-a1ac-7d0d4a4062a5/public_url) 
-- [AWS Certified Solutions Architect – Associate (Feb 2023)](https://www.credly.com/badges/68c78a9f-5a72-4797-88df-93720653ec81/public_url)
-- [AWS Certified Cloud Practitioner (Feb 2023)](https://www.credly.com/badges/2a36379f-fd83-4323-b823-756d4ef10e2d/public_url)
+- [AWS Certified Solutions Architect – Associate (February 2023)](https://www.credly.com/badges/68c78a9f-5a72-4797-88df-93720653ec81/public_url)
+- [AWS Certified Cloud Practitioner (February 2023)](https://www.credly.com/badges/2a36379f-fd83-4323-b823-756d4ef10e2d/public_url)
 - [HashiCorp Certified: Terraform Associate (October 2023)](https://www.credly.com/badges/33432f03-5e47-42c7-aaeb-6482f3b35cef/public_url)
 - [CKAD: Certified Kubernetes Application Developer (June 2020)](https://www.youracclaim.com/badges/16cd6fc8-ed46-49eb-817a-06da4461beb5/public_url)
 - [HashiCorp Certified: Vault Associate (December 2020)](https://www.youracclaim.com/badges/575eb016-a75a-4541-b2dd-e90be73d5a35/public_url)
