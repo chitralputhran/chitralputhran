@@ -1,9 +1,7 @@
 ### Hi there, I'm Chitral 👋
 
-## 🌐 Live Projects on Heroku:
+## 🌐 Live Projects:
 - [CodeElevate AI | Code Reviewer](https://codeai.streamlit.app)
-- [Wine Glass | Machine Learning App](https://wine-glass.herokuapp.com)
-- [Drive Curve | Machine Learning App](https://drive-curve.herokuapp.com)
 
 ## 🏆 Certifications: 
 - [AWS Certified Machine Learning - Specialty (May 2023)](https://www.credly.com/badges/c6b4b026-b62e-432a-a1ac-7d0d4a4062a5/public_url) 
