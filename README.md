@@ -1,7 +1,7 @@
 ### Hi there, I'm Chitral 👋
 
 ## 🌐 Live Projects:
-- [CodeElevate AI | Code Reviewer](https://codeai.streamlit.app)
+- [CodeElevate AI | Code Reviewer](https://codeelevate.streamlit.app)
 - [TextIntellect AI | Text File Search](https://textai.streamlit.app)
 
 ## 🏆 Certifications: 
