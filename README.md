@@ -10,10 +10,3 @@
 - [AWS Certified Cloud Practitioner (February 2023)](https://www.credly.com/badges/2a36379f-fd83-4323-b823-756d4ef10e2d/public_url)
 - [HashiCorp Certified: Terraform Associate (October 2023)](https://www.credly.com/badges/33432f03-5e47-42c7-aaeb-6482f3b35cef/public_url)
 
-## 📚 Completed Coursera courses:
-- [Machine Learning](https://www.coursera.org/account/accomplishments/verify/Z82NGSZB5EC4)
-- [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/227XGLZ65UT6)
-
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/chitralputhran/)
-
