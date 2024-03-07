@@ -1,10 +1,18 @@
 ### Hi there, I'm Chitral 👋
 
 ## 🌐 Live Projects:
-- [📧 Email AI | Write better emails](https://email-ai.streamlit.app) 
-- [🍲 Recipe AI | Easy-to-make recipes](https://recipe-ai.streamlit.app)
-- [🛸 CodeElevate AI | Code Reviewer](https://codeelevate.streamlit.app)
-- [🔎 TextIntellect Al | Text File Search](https://textai.streamlit.app)
+- 📧 Email AI | Write better emails
+  - [Hosted on Streamlit Cloud](https://email-ai.streamlit.app)
+  - [GitHub Code Repository](https://github.com/chitralputhran/Email-AI-Write-Better-Emails)
+- 🍲 Recipe AI | Easy-to-make recipes
+  - [Hosted on Streamlit Cloud](https://recipe-ai.streamlit.app)
+  - [GitHub Code Repository](https://github.com/chitralputhran/Recipe-AI-Easy-Recipes)
+- 🛸 CodeElevate AI | Code Reviewer 
+  - [Hosted on Streamlit Cloud](https://codeelevate.streamlit.app)
+  - [GitHub Code Repository](https://github.com/chitralputhran/CodeElevate-AI-Code-Reviewer)
+- 🔎 TextIntellect Al | Text File Search
+  - [Hosted on Streamlit Cloud](https://textai.streamlit.app)
+  - [GitHub Code Repository](https://github.com/chitralputhran/TextIntellect-AI-Text-File-Search)
 
 ## 🏆 Certifications: 
 - [AWS Certified Machine Learning - Specialty (May 2023)](https://www.credly.com/badges/c6b4b026-b62e-432a-a1ac-7d0d4a4062a5/public_url) 
