@@ -1,6 +1,7 @@
 ### Hi there, I'm Chitral 👋
 
 ## 🌐 Live Projects:
+- [📧 Email AI | Write better emails](https://email-ai.streamlit.app) 
 - [🍲 Recipe AI | Easy-to-make recipes](https://recipe-ai.streamlit.app)
 - [🛸 CodeElevate AI | Code Reviewer](https://codeelevate.streamlit.app)
 - [🔎 TextIntellect Al | Text File Search](https://textai.streamlit.app)
