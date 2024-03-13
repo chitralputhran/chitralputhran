@@ -1,19 +1,19 @@
 ### Hi there, I'm Chitral 👋
 
 ## 🌐 Live Projects:
-- ### 📝 Notes AI | Videos Summarized
+- <strong> 📝 Notes AI | Videos Summarized </strong>
   - [Hosted on Streamlit Cloud](https://notes-ai.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/Notes-AI-Videos-Summarized)
-- ### 📧 Email AI | Write better emails
+- <strong> 📧 Email AI | Write better emails </strong>
   - [Hosted on Streamlit Cloud](https://email-ai.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/Email-AI-Write-Better-Emails)
-- ### 🍲 Recipe AI | Easy-to-make recipes
+- <strong> 🍲 Recipe AI | Easy-to-make recipes </strong>
   - [Hosted on Streamlit Cloud](https://recipe-ai.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/Recipe-AI-Easy-Recipes)
-- ### 🛸 CodeElevate AI | Code Reviewer 
+- <strong> 🛸 CodeElevate AI | Code Reviewer </strong>
   - [Hosted on Streamlit Cloud](https://codeelevate.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/CodeElevate-AI-Code-Reviewer)
-- ### 🔎 TextIntellect Al | Text File Search
+- <strong> 🔎 TextIntellect Al | Text File Search </strong>
   - [Hosted on Streamlit Cloud](https://textai.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/TextIntellect-AI-Text-File-Search)
 
