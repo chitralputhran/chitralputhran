@@ -1,6 +1,11 @@
 ### Hi there, I'm Chitral 👋
 
-## 🌐 Live Projects:
+## 🌐 Projects:
+- <strong> 🕸️ Advanced RAG with LangGraph </strong>
+  - [GitHub Code Repository](https://github.com/chitralputhran/Advanced-RAG-LangGraph)
+- <strong> 🔎 TextIntellect Al | Text File Search </strong>
+  - [Hosted on Streamlit Cloud](https://textai.streamlit.app)
+  - [GitHub Code Repository](https://github.com/chitralputhran/TextIntellect-AI-Text-File-Search)
 - <strong> 📝 Notes AI | Videos Summarized </strong>
   - [Hosted on Streamlit Cloud](https://notes-ai.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/Notes-AI-Videos-Summarized)
@@ -13,9 +18,7 @@
 - <strong> 🛸 CodeElevate AI | Code Reviewer </strong>
   - [Hosted on Streamlit Cloud](https://codeelevate.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/CodeElevate-AI-Code-Reviewer)
-- <strong> 🔎 TextIntellect Al | Text File Search </strong>
-  - [Hosted on Streamlit Cloud](https://textai.streamlit.app)
-  - [GitHub Code Repository](https://github.com/chitralputhran/TextIntellect-AI-Text-File-Search)
+    
 
 ## 🏆 Certifications: 
 - [AWS Certified AI Practitioner (September 2024)](https://www.credly.com/badges/78f2a868-20d3-425d-90b7-cc5d466055b1/public_url)
