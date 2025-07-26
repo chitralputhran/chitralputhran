@@ -3,6 +3,9 @@
 ## 🌐 Projects:
 - <strong> 🕸️ Advanced RAG with LangGraph </strong>
   - [GitHub Code Repository](https://github.com/chitralputhran/Advanced-RAG-LangGraph)
+- <strong> 🍲 Recipe AI - Smart Recipe Generation </strong>
+  - [Hosted on Streamlit Cloud](https://recipe-ai.streamlit.app)
+  - [GitHub Code Repository](https://github.com/chitralputhran/Recipe-AI-Easy-Recipes)
 - <strong> 🔎 TextIntellect Al | Text File Search </strong>
   - [Hosted on Streamlit Cloud](https://textai.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/TextIntellect-AI-Text-File-Search)
@@ -12,9 +15,6 @@
 - <strong> 📧 Email AI | Write better emails </strong>
   - [Hosted on Streamlit Cloud](https://email-ai.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/Email-AI-Write-Better-Emails)
-- <strong> 🍲 Recipe AI | Easy-to-make recipes </strong>
-  - [Hosted on Streamlit Cloud](https://recipe-ai.streamlit.app)
-  - [GitHub Code Repository](https://github.com/chitralputhran/Recipe-AI-Easy-Recipes)
 - <strong> 🛸 CodeElevate AI | Code Reviewer </strong>
   - [Hosted on Streamlit Cloud](https://codeelevate.streamlit.app)
   - [GitHub Code Repository](https://github.com/chitralputhran/CodeElevate-AI-Code-Reviewer)
