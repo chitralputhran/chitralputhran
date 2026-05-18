@@ -1,32 +1,76 @@
-### Hi there, I'm Chitral 👋
+<div>
 
-## 🌐 Projects:
-- <strong> 🕸️ Advanced RAG with LangGraph </strong>
-  - [GitHub Code Repository](https://github.com/chitralputhran/Advanced-RAG-LangGraph)
-- <strong> 🍲 Recipe AI - Smart Recipe Generation </strong>
-  - [Hosted on Streamlit Cloud](https://recipe-ai.streamlit.app)
-  - [GitHub Code Repository](https://github.com/chitralputhran/Recipe-AI-Easy-Recipes)
-- <strong> 🔎 TextIntellect AI | Text File Search </strong>
-  - [Hosted on Streamlit Cloud](https://textai.streamlit.app)
-  - [GitHub Code Repository](https://github.com/chitralputhran/TextIntellect-AI-Text-File-Search)
-- <strong> 📝 Notes AI | Videos Summarized </strong>
-  - [Hosted on Streamlit Cloud](https://notes-ai.streamlit.app)
-  - [GitHub Code Repository](https://github.com/chitralputhran/Notes-AI-Videos-Summarized)
-- <strong> 📧 Email AI | Write Better Emails </strong>
-  - [Hosted on Streamlit Cloud](https://email-ai.streamlit.app)
-  - [GitHub Code Repository](https://github.com/chitralputhran/Email-AI-Write-Better-Emails)
-- <strong> 🛸 CodeElevate AI | Code Reviewer </strong>
-  - [Hosted on Streamlit Cloud](https://codeelevate.streamlit.app)
-  - [GitHub Code Repository](https://github.com/chitralputhran/CodeElevate-AI-Code-Reviewer)
+# Hi there, I'm Chitral 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chitral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chitralputhran)
+[![GitHub](https://img.shields.io/badge/GitHub-chitral-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chitralputhran)
 
-## 🏆 Certifications:
-- [AWS Certified Generative AI Developer - Professional (May 2026)](https://www.credly.com/badges/031591a6-036f-4950-be40-cc30bf2bb912)
-- [AWS Certified Machine Learning Engineer – Associate (September 2024)](https://www.credly.com/badges/2ee6e52b-be96-42c5-8fd6-f0ee13737aaf/public_url)
-- [AWS Certified AI Practitioner (September 2024)](https://www.credly.com/badges/78f2a868-20d3-425d-90b7-cc5d466055b1/public_url)
-- [NVIDIA-Certified Associate: Generative AI LLMs (August 2024)](https://www.credly.com/badges/1ba703e6-4368-4eab-96d4-55734e06ef5e/public_url)
-- [HashiCorp Certified: Terraform Associate (October 2023)](https://www.credly.com/badges/33432f03-5e47-42c7-aaeb-6482f3b35cef/public_url)
-- [AWS Certified Machine Learning - Specialty (May 2023)](https://www.credly.com/badges/c6b4b026-b62e-432a-a1ac-7d0d4a4062a5/public_url)
-- [AWS Certified Solutions Architect – Associate (February 2023)](https://www.credly.com/badges/68c78a9f-5a72-4797-88df-93720653ec81/public_url)
-- [AWS Certified Cloud Practitioner (February 2023)](https://www.credly.com/badges/2a36379f-fd83-4323-b823-756d4ef10e2d/public_url)
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+Software Engineer III with 6 years of experience. My work today centers on Generative AI applications.
+
+Over the past few years, I have shifted my focus toward AI engineering, large language models, RAG systems, and agentic workflows. I hold a Master's in Computer Science and have earned multiple industry certifications across AI, machine learning, and cloud.
+
+I enjoy working on problems where AI can be applied practically, and I am always learning what is new in the space.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4A90D9?style=for-the-badge&logo=python&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Data & Databases**
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌐 Featured Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 🕸️ **Advanced RAG with LangGraph** | Robust RAG pipeline with LangGraph, ChromaDB, Tavily & LangSmith for document Q&A and hallucination mitigation | [GitHub](https://github.com/chitralputhran/Advanced-RAG-LangGraph) |
+| 🍲 **Recipe AI** | Smart recipe generation app powered by AI | [App](https://recipe-ai.streamlit.app) · [GitHub](https://github.com/chitralputhran/Recipe-AI-Easy-Recipes) |
+| 🔎 **TextIntellect AI** | AI-powered text file search & analysis | [App](https://textai.streamlit.app) · [GitHub](https://github.com/chitralputhran/TextIntellect-AI-Text-File-Search) |
+| 📝 **Notes AI** | Summarize YouTube videos with AI | [App](https://notes-ai.streamlit.app) · [GitHub](https://github.com/chitralputhran/Notes-AI-Videos-Summarized) |
+| 📧 **Email AI** | Write better emails with AI assistance | [App](https://email-ai.streamlit.app) · [GitHub](https://github.com/chitralputhran/Email-AI-Write-Better-Emails) |
+| 🛸 **CodeElevate AI** | AI-powered code reviewer | [App](https://codeelevate.streamlit.app) · [GitHub](https://github.com/chitralputhran/CodeElevate-AI-Code-Reviewer) |
+
+---
+
+## 🏆 Certifications
+
+| Badge | Certification | Date |
+|-------|--------------|------|
+| [![AWS GenAI](https://img.shields.io/badge/AWS-Generative_AI_Developer_Professional-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/031591a6-036f-4950-be40-cc30bf2bb912) | AWS Certified Generative AI Developer – Professional | May 2026 |
+| [![AWS MLE](https://img.shields.io/badge/AWS-ML_Engineer_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/2ee6e52b-be96-42c5-8fd6-f0ee13737aaf/public_url) | AWS Certified Machine Learning Engineer – Associate | Sep 2024 |
+| [![AWS AIP](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/78f2a868-20d3-425d-90b7-cc5d466055b1/public_url) | AWS Certified AI Practitioner | Sep 2024 |
+| [![NVIDIA](https://img.shields.io/badge/NVIDIA-GenAI_LLMs_Associate-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.credly.com/badges/1ba703e6-4368-4eab-96d4-55734e06ef5e/public_url) | NVIDIA-Certified Associate: Generative AI LLMs | Aug 2024 |
+| [![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.credly.com/badges/33432f03-5e47-42c7-aaeb-6482f3b35cef/public_url) | HashiCorp Certified: Terraform Associate | Oct 2023 |
+| [![AWS MLS](https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/c6b4b026-b62e-432a-a1ac-7d0d4a4062a5/public_url) | AWS Certified Machine Learning – Specialty | May 2023 |
+| [![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/68c78a9f-5a72-4797-88df-93720653ec81/public_url) | AWS Certified Solutions Architect – Associate | Feb 2023 |
+| [![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/2a36379f-fd83-4323-b823-756d4ef10e2d/public_url) | AWS Certified Cloud Practitioner | Feb 2023 |
+
+---
