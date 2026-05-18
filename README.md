@@ -21,6 +21,7 @@
     
 
 ## 🏆 Certifications: 
+- [AWS Certified Generative AI Developer - Professional (May 2026)](https://www.credly.com/badges/031591a6-036f-4950-be40-cc30bf2bb912)
 - [AWS Certified AI Practitioner (September 2024)](https://www.credly.com/badges/78f2a868-20d3-425d-90b7-cc5d466055b1/public_url)
 - [AWS Certified Machine Learning Engineer – Associate (September 2024)](https://www.credly.com/badges/2ee6e52b-be96-42c5-8fd6-f0ee13737aaf/public_url)
 - [NVIDIA-Certified Associate: Generative AI LLMs (August 2024)](https://www.credly.com/badges/1ba703e6-4368-4eab-96d4-55734e06ef5e/public_url)
