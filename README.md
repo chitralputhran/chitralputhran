@@ -35,7 +35,7 @@ I enjoy working on problems where AI can be applied practically, and I am always
 
 ## 🏆 Certifications
 
-| Badge | Certification | Date |
+| Verification Link | Certification | Date |
 |-------|--------------|------|
 | [![AWS GenAI](https://img.shields.io/badge/AWS-Generative_AI_Developer_Professional-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/031591a6-036f-4950-be40-cc30bf2bb912) | AWS Certified Generative AI Developer – Professional | May 2026 |
 | [![AWS MLE](https://img.shields.io/badge/AWS-ML_Engineer_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/2ee6e52b-be96-42c5-8fd6-f0ee13737aaf/public_url) | AWS Certified Machine Learning Engineer – Associate | Sep 2024 |
