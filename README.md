@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer III with 6 years of experience. My work today centers on Generative AI applications.
+Software Engineer with 6 years of experience. My work today centers on Generative AI applications.
 
 Over the past few years, I have shifted my focus toward AI engineering, large language models, RAG systems, and agentic workflows. I hold a Master's in Computer Science and have earned multiple industry certifications across AI, machine learning, and cloud.
 
@@ -19,33 +19,6 @@ I enjoy working on problems where AI can be applied practically, and I am always
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4A90D9?style=for-the-badge&logo=python&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Data & Databases**
-
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 ## 🌐 Featured Projects
 
@@ -73,4 +46,3 @@ I enjoy working on problems where AI can be applied practically, and I am always
 | [![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/68c78a9f-5a72-4797-88df-93720653ec81/public_url) | AWS Certified Solutions Architect – Associate | Feb 2023 |
 | [![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/2a36379f-fd83-4323-b823-756d4ef10e2d/public_url) | AWS Certified Cloud Practitioner | Feb 2023 |
 
----
